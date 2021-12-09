@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adt-jeo
+- 👀 I’m interested in software & art
+- 🌱 I’m currently learning microfrontends
+- 💞️ I’m looking to collaborate on wicked projects
+- 📫 How to reach me: book a flight.
